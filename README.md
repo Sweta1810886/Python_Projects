@@ -4,7 +4,6 @@ A simple Python project that bundles three essential productivity tools into one
 - ✅ To-Do List
 - 🔐 Password Generator
 - 📇 Contact Book
-This project is perfect for beginners looking to practice Python basics like file handling, user input, and simple data structures.
 
 ✅ To-Do List 
 A command-line tool to help you keep track of your tasks.
